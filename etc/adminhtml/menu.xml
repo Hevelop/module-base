@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Hevelop_Base::hevelop_base_menu"
+             title="Hevelop" module="Hevelop_Base"
+             sortOrder="11"
+             resource="Magento_Backend::content"/>
+    </menu>
+</config>

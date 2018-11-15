@@ -1,0 +1,21 @@
+{
+    "name": "hevelop/module-hevelop-base",
+    "description": "Hevelop Base Module",
+    "type": "magento2-module",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Hevelop\\Base\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "Yuriy Boyko",
+            "email": "yuriy@hevelop.com",
+            "homepage": "https://hevelop.com/",
+            "role": "Developer"
+        }
+    ]
+}
